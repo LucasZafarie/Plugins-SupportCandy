@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpsc-ag-zh-TW\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-24 10:04+0530\n"
+"PO-Revision-Date: 2023-05-24 10:07+0530\n"
+"Last-Translator: Alen Lin\n"
+"Language-Team: Chinese (Taiwan)\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 131489\n"
+"X-Loco-Api-Version: 1.0.26 20220711-1\n"
+
+#: includes/class-wpsc-aarg-rules.php:42 includes/class-wpsc-ag-settings.php:47
+#: includes/class-wpsc-ag-settings.php:65
+msgid "Agentgroups"
+msgstr "客服人員群組"
+
+#: includes/class-wpsc-aarg-rules.php:50
+msgid "Select Groups"
+msgstr "選擇群組"
+
+#: includes/class-wpsc-aarg-rules.php:68
+msgid "Assign group only"
+msgstr "僅指派群組"
+
+#: includes/class-wpsc-aarg-rules.php:75
+msgid "Assign group and one of its members including supervisors"
+msgstr "指派群組及其成員之一，包括主管"
+
+#: includes/class-wpsc-aarg-rules.php:79 includes/class-wpsc-aarg-rules.php:94
+msgid "Closest working hours"
+msgstr "最近的工作時間"
+
+#: includes/class-wpsc-aarg-rules.php:83 includes/class-wpsc-aarg-rules.php:98
+msgid "Minimum workload"
+msgstr "最小工作量"
+
+#: includes/class-wpsc-aarg-rules.php:90
+msgid "Assign group and one of its members excluding supervisors"
+msgstr "指派群組及其成員之一，不包括主管"
+
+#: includes/class-wpsc-ag-admin.php:62
+msgid "Agentgroup Members"
+msgstr "客服人員群組 成員"
+
+#: includes/class-wpsc-ag-admin.php:63
+msgid "Agentgroup Supervisors"
+msgstr "客服人員群組 主管"
+
+#: includes/class-wpsc-ag-license.php:116
+#: includes/class-wpsc-ag-license.php:166
+#: includes/class-wpsc-ag-settings.php:175
+msgid "Unauthorized access!"
+msgstr ""
+
+#: includes/class-wpsc-ag-license.php:121
+#: includes/class-wpsc-ag-license.php:171
+msgid "Bad request!"
+msgstr ""
+
+#: includes/class-wpsc-ag-settings.php:61
+#: includes/class-wpsc-ag-settings.php:80
+#: includes/class-wpsc-ag-settings.php:287
+#: includes/class-wpsc-ag-settings.php:339
+#: includes/class-wpsc-ag-settings.php:486
+#: includes/class-wpsc-ag-settings.php:554
+msgid "Unauthorized access"
+msgstr ""
+
+#: includes/class-wpsc-ag-settings.php:91
+msgid "Members"
+msgstr "成員"
+
+#: includes/class-wpsc-ag-settings.php:92
+#: includes/class-wpsc-ag-settings.php:204
+#: includes/class-wpsc-ag-settings.php:388
+msgid "Supervisors"
+msgstr "主管"
+
+#: includes/class-wpsc-ag-settings.php:194
+#: includes/class-wpsc-ag-settings.php:370
+msgid "Agents"
+msgstr "客服人員"
+
+#~ msgid "SupportCandy - Agentgroups"
+#~ msgstr "客服人員群組"
+
+#~ msgid "https://www.supportcandy.net/"
+#~ msgstr "https://www.supportcandy.net/"
+
+#~ msgid "Agentgroup add-on for SupportCandy"
+#~ msgstr "客服人員群組外掛套件"
+
+#~ msgid "SupportCandy"
+#~ msgstr "SupportCandy"

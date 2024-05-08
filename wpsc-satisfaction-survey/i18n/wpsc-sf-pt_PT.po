@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportCandy - Satisfaction Survey\n"
+"POT-Creation-Date: 2024-04-18 16:26+0530\n"
+"PO-Revision-Date: 2024-04-18 16:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpsc-satisfaction-survey.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class-wpsc-sf-installation.php:146 class-wpsc-sf-installation.php:369
+#: includes/admin/settings/class-wpsc-sf-submenu.php:108
+#: includes/admin/widget/class-wpsc-upw-rating.php:73
+#: includes/dashboard/widgets/class-wpsc-dbw-ticket-feedback.php:139
+msgid "Rating"
+msgstr "Rating"
+
+#: class-wpsc-sf-installation.php:158
+#: includes/admin/settings/class-wpsc-sf-submenu.php:109
+msgid "Feedback"
+msgstr "Feedback"
+
+#: class-wpsc-sf-installation.php:170
+msgid "Feedback Date"
+msgstr "Data do Feedback"
+
+#: class-wpsc-sf-installation.php:190
+msgid "Terrible"
+msgstr "Terrível"
+
+#: class-wpsc-sf-installation.php:205
+msgid "Bad"
+msgstr "Mau"
+
+#: class-wpsc-sf-installation.php:220
+msgid "Okay"
+msgstr ""
+
+#: class-wpsc-sf-installation.php:235
+msgid "Good"
+msgstr "Bom"
+
+#: class-wpsc-sf-installation.php:250
+msgid "Excellent"
+msgstr "Excelente"
+
+#: class-wpsc-sf-installation.php:400
+#, fuzzy
+#| msgid "Feedback"
+msgid "Ticket Feedback"
+msgstr "Feedback"
+
+#: class-wpsc-sf-installation.php:415
+#, fuzzy
+#| msgid "Ratings"
+msgid "Agent Ratings"
+msgstr "Ratings"
+
+#: includes/admin/email-notifications/class-wpsc-feedback-notification.php:39
+msgid "Feedback added"
+msgstr "Feedback adicionado"
+
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:41
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:61
+#: includes/admin/settings/class-wpsc-satisfaction-survey-settings.php:66
+msgid "Satisfaction Survey"
+msgstr "Inquérito de Satisfação"
+
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:55
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:141
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:184
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:223
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:372
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:419
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:454
+#: includes/admin/settings/class-wpsc-satisfaction-survey-settings.php:121
+#: includes/admin/settings/class-wpsc-sf-general-setting.php:168
+#: includes/admin/settings/class-wpsc-sf-general-setting.php:200
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:44
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:88
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:170
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:218
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:312
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:365
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:436
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:510
+#: includes/admin/settings/class-wpsc-sf-submenu.php:188
+#: includes/admin/widget/class-wpsc-tw-rating.php:107
+#: includes/admin/widget/class-wpsc-tw-rating.php:202
+#: includes/class-wpsc-sf-license.php:108
+#: includes/class-wpsc-sf-license.php:168
+msgid "Unauthorized access!"
+msgstr ""
+
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:70
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:251
+msgid "Days after closing"
+msgstr "Dias após o fecho"
+
+#: includes/admin/settings/class-wpsc-satisfaction-survey-settings.php:87
+msgid "Ratings"
+msgstr "Ratings"
+
+#: includes/admin/settings/class-wpsc-sf-general-setting.php:59
+msgid "Survey page"
+msgstr "Página do questionário"
+
+#: includes/admin/settings/class-wpsc-sf-general-setting.php:78
+msgid "Trigger survey when customer close ticket"
+msgstr "Disparar inquérito quando o cliente fecha o bilhete"
+
+#: includes/admin/settings/class-wpsc-sf-general-setting.php:87
+msgid "Closed statuses to enable survey"
+msgstr "Estados fechados para permitir o inquérito"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:129
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:269
+msgid "Confirmation text"
+msgstr "Texto de confirmação"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:378
+msgid "Delete rating"
+msgstr "Apagar rating"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:386
+msgid "Replace with"
+msgstr "Substituir por"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:411
+msgid "Submit"
+msgstr "Submeter"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:414
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:445
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:450
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:455
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:460
+#: includes/admin/widget/class-wpsc-tw-rating.php:207
+#: includes/class-wpsc-sf-license.php:113
+#: includes/class-wpsc-sf-license.php:173
+#: includes/reports/class-wpsc-rp-rating.php:71
+#: includes/reports/class-wpsc-rp-rating.php:85
+#: includes/reports/class-wpsc-rp-rating.php:139
+#: includes/reports/class-wpsc-rp-rating.php:170
+msgid "Bad request!"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-sf-submenu.php:34
+#: includes/admin/settings/class-wpsc-sf-submenu.php:35
+#: includes/admin/settings/class-wpsc-sf-submenu.php:53
+msgid "Customer Feedback"
+msgstr "Feedback do cliente"
+
+#: includes/admin/settings/class-wpsc-sf-submenu.php:62
+msgid "All ratings"
+msgstr "Todos os ratings"
+
+#: includes/admin/settings/class-wpsc-sf-submenu.php:79
+msgid "Start To End"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-sf-submenu.php:87
+msgid "Apply"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-sf-submenu.php:91
+msgid "Export"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-sf-submenu.php:95
+msgid "Reset"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-sf-submenu.php:106
+#: includes/admin/widget/class-wpsc-upw-rating.php:71
+#: includes/dashboard/widgets/class-wpsc-dbw-ticket-feedback.php:136
+msgid "Ticket"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-tw-rating.php:135
+msgid "Allowed for customer"
+msgstr "Permitido para o cliente"
+
+#: includes/admin/widget/class-wpsc-tw-rating.php:274
+#: includes/class-wpsc-shortcode-sf.php:94
+msgid "Feedback (Optional)"
+msgstr "Feedback (Opcional)"
+
+#: includes/admin/widget/class-wpsc-upw-rating.php:52
+#, fuzzy
+#| msgid "Customer Feedback"
+msgid "Customer feedback"
+msgstr "Feedback do cliente"
+
+#: includes/admin/widget/class-wpsc-upw-rating.php:58
+msgid "View more"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-upw-rating.php:72
+#: includes/dashboard/widgets/class-wpsc-dbw-ticket-feedback.php:137
+msgid "Subject"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-upw-rating.php:121
+msgid "Not Applicable"
+msgstr ""
+
+#: includes/class-wpsc-sf-actions.php:39
+msgid "Satisfaction survey links"
+msgstr "Ligações do inquérito de satisfação"
+
+#: includes/class-wpsc-sf-actions.php:44
+msgid "Satisfaction survey url"
+msgstr "URL do Inquérito de satisfação"
+
+#: includes/class-wpsc-sf-frontend.php:58
+msgid "Please select a rating before submitting!"
+msgstr ""
+
+#: includes/class-wpsc-shortcode-sf.php:49
+msgid "Access denied!"
+msgstr ""
+
+#: includes/class-wpsc-shortcode-sf.php:50
+msgid ""
+"You do not have permission to rate this ticket because of the following "
+"reasons:"
+msgstr ""
+
+#: includes/class-wpsc-shortcode-sf.php:52
+msgid "You are not a creator of the ticket."
+msgstr ""
+
+#: includes/class-wpsc-shortcode-sf.php:53
+msgid "The ticket is not closed."
+msgstr ""
+
+#: includes/class-wpsc-shortcode-sf.php:71
+msgid "This survey is related to the following ticket"
+msgstr ""
+
+#: includes/dashboard/widgets/class-wpsc-dbw-agents-performance.php:56
+msgid "Last 7 days"
+msgstr ""
+
+#: includes/dashboard/widgets/class-wpsc-dbw-agents-performance.php:57
+msgid "Last Week"
+msgstr ""
+
+#: includes/dashboard/widgets/class-wpsc-dbw-agents-performance.php:58
+msgid "Last 30 Days"
+msgstr ""
+
+#: includes/dashboard/widgets/class-wpsc-dbw-agents-performance.php:59
+msgid "Last Month"
+msgstr ""
+
+#: includes/dashboard/widgets/class-wpsc-dbw-agents-performance.php:61
+msgid "Search..."
+msgstr ""
+
+#: includes/dashboard/widgets/class-wpsc-dbw-agents-performance.php:146
+msgid "Agent"
+msgstr ""
+
+#: includes/dashboard/widgets/class-wpsc-dbw-ticket-feedback.php:58
+msgid "View All"
+msgstr ""
+
+#: includes/dashboard/widgets/class-wpsc-dbw-ticket-feedback.php:138
+#, fuzzy
+#| msgid "Customer Feedback"
+msgid "Customer"
+msgstr "Feedback do cliente"
+
+#: includes/reports/class-wpsc-rp-rating.php:149
+msgid "Unauthorized"
+msgstr ""
+
+#~ msgid "Okey"
+#~ msgstr "Ok"
+
+#~ msgid "SupportCandy - Satisfaction Survey"
+#~ msgstr "SupportCandy - Inquérito de Satisfação"
+
+#~ msgid "https://supportcandy.net/"
+#~ msgstr "https://supportcandy.net/"
+
+#~ msgid "Satisfaction Survey addon for SupportCandy"
+#~ msgstr "Complemento de Inquérito de Satisfação para SupportCandy"
+
+#~ msgid "SupportCandy"
+#~ msgstr "SupportCandy"

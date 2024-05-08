@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportCandy - Agentgroups\n"
+"POT-Creation-Date: 2023-05-24 10:04+0530\n"
+"PO-Revision-Date: 2023-05-24 10:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpsc-agentgroup.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/class-wpsc-aarg-rules.php:42 includes/class-wpsc-ag-settings.php:47
+#: includes/class-wpsc-ag-settings.php:65
+msgid "Agentgroups"
+msgstr "קבוצות סוכן"
+
+#: includes/class-wpsc-aarg-rules.php:50
+msgid "Select Groups"
+msgstr "בחר קבוצות"
+
+#: includes/class-wpsc-aarg-rules.php:68
+msgid "Assign group only"
+msgstr "הקצה קבוצה בלבד"
+
+#: includes/class-wpsc-aarg-rules.php:75
+msgid "Assign group and one of its members including supervisors"
+msgstr "הקצה קבוצה ואחד מהחברים עם אחראיים"
+
+#: includes/class-wpsc-aarg-rules.php:79 includes/class-wpsc-aarg-rules.php:94
+msgid "Closest working hours"
+msgstr "שעות העבודה הקרובות"
+
+#: includes/class-wpsc-aarg-rules.php:83 includes/class-wpsc-aarg-rules.php:98
+msgid "Minimum workload"
+msgstr "מינימום עומס עבודה"
+
+#: includes/class-wpsc-aarg-rules.php:90
+msgid "Assign group and one of its members excluding supervisors"
+msgstr "הקצה קבוצה ואחד מהחברים בלי אחראיים"
+
+#: includes/class-wpsc-ag-admin.php:62
+msgid "Agentgroup Members"
+msgstr "חברים בקבוצת סוכן"
+
+#: includes/class-wpsc-ag-admin.php:63
+msgid "Agentgroup Supervisors"
+msgstr "אחראיים בקבוצת הסוכן"
+
+#: includes/class-wpsc-ag-license.php:116
+#: includes/class-wpsc-ag-license.php:166
+#: includes/class-wpsc-ag-settings.php:175
+msgid "Unauthorized access!"
+msgstr ""
+
+#: includes/class-wpsc-ag-license.php:121
+#: includes/class-wpsc-ag-license.php:171
+msgid "Bad request!"
+msgstr ""
+
+#: includes/class-wpsc-ag-settings.php:61
+#: includes/class-wpsc-ag-settings.php:80
+#: includes/class-wpsc-ag-settings.php:287
+#: includes/class-wpsc-ag-settings.php:339
+#: includes/class-wpsc-ag-settings.php:486
+#: includes/class-wpsc-ag-settings.php:554
+msgid "Unauthorized access"
+msgstr ""
+
+#: includes/class-wpsc-ag-settings.php:91
+msgid "Members"
+msgstr "חברים"
+
+#: includes/class-wpsc-ag-settings.php:92
+#: includes/class-wpsc-ag-settings.php:204
+#: includes/class-wpsc-ag-settings.php:388
+msgid "Supervisors"
+msgstr "אחראיים"
+
+#: includes/class-wpsc-ag-settings.php:194
+#: includes/class-wpsc-ag-settings.php:370
+msgid "Agents"
+msgstr "סוכנים"
+
+#~ msgid "SupportCandy - Agentgroups"
+#~ msgstr "ספורטקנדי - קבוצת סוכן"
+
+#~ msgid "https://www.supportcandy.net/"
+#~ msgstr "https://www.supportcandy.net/"
+
+#~ msgid "Agentgroup add-on for SupportCandy"
+#~ msgstr "תוספת קבוצת סוכן לספורטקנדי"
+
+#~ msgid "SupportCandy"
+#~ msgstr "SupportCandy"

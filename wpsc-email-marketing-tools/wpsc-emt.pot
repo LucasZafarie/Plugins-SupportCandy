@@ -1,0 +1,67 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportCandy - Email Marketing Tools Integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-30 15:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.4.4\n"
+"X-Domain: wpsc-emt"
+
+#: includes/admin/settings/class-wpsc-emt-settings-general.php:68
+msgid "Brevo - SendinBlue"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-emt-settings-general.php:84
+msgid "Create Ticket"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-emt-settings.php:58
+msgid "Email Marketing Tools"
+msgstr ""
+
+#. Description of the plugin
+msgid "Email marketing tools integration add-on for SupportCandy"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-emt-settings-general.php:67
+msgid "GetResponse"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://supportcandy.net/"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-emt-settings-general.php:66
+msgid "Mailchimp"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-emt-settings-general.php:80
+msgid "Registation"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-emt-settings-general.php:74
+msgid "Subscribe option"
+msgstr ""
+
+#: includes/class-wpsc-emt-actions.php:64
+#: includes/class-wpsc-emt-actions.php:170
+msgid "Subscribe to the newsletter"
+msgstr ""
+
+#. Author of the plugin
+msgid "SupportCandy"
+msgstr ""
+
+#. Name of the plugin
+msgid "SupportCandy - Email Marketing Tools Integration"
+msgstr ""

@@ -1,0 +1,295 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportCandy - Reports\n"
+"POT-Creation-Date: 2024-02-02 16:41+0530\n"
+"PO-Revision-Date: 2022-07-22 16:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpsc-reports.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class-wpsc-rp-installation.php:194
+#: includes/class-wpsc-rp-admin-submenu.php:104
+#: includes/reports/class-wpsc-rp-response-delay.php:32
+msgid "Response Delay"
+msgstr ""
+
+#: class-wpsc-rp-installation.php:209
+#: includes/class-wpsc-rp-admin-submenu.php:114
+#: includes/reports/class-wpsc-rp-closing-delay.php:32
+msgid "Ticket Closing Delay"
+msgstr ""
+
+#: class-wpsc-rp-installation.php:224
+#: includes/class-wpsc-rp-admin-submenu.php:124
+#: includes/reports/class-wpsc-rp-communication-gap.php:32
+msgid "Communication Gap"
+msgstr ""
+
+#: includes/class-wpsc-rp-admin-submenu.php:71
+#: includes/class-wpsc-rp-admin-submenu.php:72
+#: includes/class-wpsc-rp-admin-submenu.php:167
+#: includes/class-wpsc-rp-settings.php:112
+msgid "Reports"
+msgstr ""
+
+#: includes/class-wpsc-rp-admin-submenu.php:94
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:32
+msgid "Ticket Statistics"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:34
+msgid "Duration"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:36
+#: includes/class-wpsc-rp-settings.php:141
+msgid "Today"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:37
+#: includes/class-wpsc-rp-settings.php:142
+msgid "Yesterday"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:38
+#: includes/class-wpsc-rp-settings.php:143
+msgid "This Week"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:39
+#: includes/class-wpsc-rp-settings.php:144
+msgid "Last Week"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:40
+#: includes/class-wpsc-rp-settings.php:145
+msgid "Last 30 Days"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:41
+#: includes/class-wpsc-rp-settings.php:146
+msgid "This Month"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:42
+#: includes/class-wpsc-rp-settings.php:147
+msgid "Last Month"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:43
+#: includes/class-wpsc-rp-settings.php:148
+msgid "This Quarter"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:44
+#: includes/class-wpsc-rp-settings.php:149
+msgid "Last Quarter"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:45
+#: includes/class-wpsc-rp-settings.php:150
+msgid "This Year"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:46
+#: includes/class-wpsc-rp-settings.php:151
+msgid "Last Year"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:47 includes/class-wpsc-rp-filters.php:84
+#: includes/class-wpsc-rp-filters.php:331
+#: includes/class-wpsc-rp-filters.php:416
+msgid "Custom"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:89
+msgid "Print"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:112
+#: includes/class-wpsc-rp-filters.php:157
+#: includes/class-wpsc-rp-filters.php:237
+#: includes/class-wpsc-rp-filters.php:291
+#: includes/class-wpsc-rp-filters.php:349
+#: includes/class-wpsc-rp-filters.php:388
+#: includes/reports/class-wpsc-rp-closing-delay.php:91
+#: includes/reports/class-wpsc-rp-communication-gap.php:91
+#: includes/reports/class-wpsc-rp-response-delay.php:93
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:95
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:134
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:129
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:129
+#: includes/reports/custom-field-types/class-wpsc-rp-priority.php:129
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:129
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:129
+msgid "Unauthorized"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:178
+msgid "Custom Filter"
+msgstr ""
+
+#: includes/class-wpsc-rp-filters.php:183
+msgid "Filters"
+msgstr ""
+
+#: includes/class-wpsc-rp-license.php:117
+#: includes/class-wpsc-rp-license.php:167
+#: includes/class-wpsc-rp-settings.php:126
+#: includes/class-wpsc-rp-settings.php:208
+#: includes/class-wpsc-rp-settings.php:238
+msgid "Unauthorized access!"
+msgstr ""
+
+#: includes/class-wpsc-rp-license.php:122
+#: includes/class-wpsc-rp-license.php:172
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:57
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:71
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:76
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:125
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:155
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:57
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:71
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:120
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:150
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:57
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:71
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:120
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:150
+#: includes/reports/custom-field-types/class-wpsc-rp-priority.php:57
+#: includes/reports/custom-field-types/class-wpsc-rp-priority.php:71
+#: includes/reports/custom-field-types/class-wpsc-rp-priority.php:120
+#: includes/reports/custom-field-types/class-wpsc-rp-priority.php:150
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:57
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:71
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:120
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:150
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:57
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:71
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:120
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:150
+msgid "Bad request!"
+msgstr ""
+
+#: includes/class-wpsc-rp-settings.php:133
+msgid "Report Settings"
+msgstr ""
+
+#: includes/class-wpsc-rp-settings.php:138
+msgid "Default Duration"
+msgstr ""
+
+#: includes/class-wpsc-rp-settings.php:157
+msgid "Generate reports for custom fields"
+msgstr ""
+
+#: includes/class-wpsc-rp-settings.php:255
+#: includes/class-wpsc-rp-settings.php:283
+msgid "View Reports"
+msgstr ""
+
+#: includes/reports/class-wpsc-rp-closing-delay.php:37
+#: includes/reports/class-wpsc-rp-communication-gap.php:37
+#: includes/reports/class-wpsc-rp-response-delay.php:37
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:37
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:85
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-priority.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:80
+msgid "From Date"
+msgstr ""
+
+#: includes/reports/class-wpsc-rp-closing-delay.php:41
+#: includes/reports/class-wpsc-rp-communication-gap.php:41
+#: includes/reports/class-wpsc-rp-response-delay.php:41
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:41
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:89
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-priority.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:84
+msgid "To Date"
+msgstr ""
+
+#: includes/reports/class-wpsc-rp-closing-delay.php:66
+msgid "Average Closing Delay (Days)"
+msgstr ""
+
+#: includes/reports/class-wpsc-rp-communication-gap.php:66
+msgid "Average communication gap for this period"
+msgstr ""
+
+#: includes/reports/class-wpsc-rp-response-delay.php:66
+msgid "First Response Delay (Hours)"
+msgstr ""
+
+#: includes/reports/class-wpsc-rp-response-delay.php:67
+msgid "Average Response Delay (Hours)"
+msgstr ""
+
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:66
+msgid "Total tickets created"
+msgstr ""
+
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:67
+msgid "Total tickets closed"
+msgstr ""
+
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:406
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:406
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:399
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:399
+msgid "Record not found!"
+msgstr ""
+
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:426
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:426
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:419
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:419
+msgid "Chart Type"
+msgstr ""
+
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:429
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:429
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:422
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:422
+msgid "Pie"
+msgstr ""
+
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:430
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:430
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:423
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:423
+msgid "Doughnut"
+msgstr ""
+
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:431
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:431
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:424
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:424
+msgid "Horizontal Bar"
+msgstr ""
+
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:432
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:432
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:425
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:425
+msgid "Vertical Bar"
+msgstr ""

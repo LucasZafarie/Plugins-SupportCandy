@@ -1,0 +1,9 @@
+.wpsc-add-usergroup{
+	position: relative;
+	z-index: 999;
+}
+
+.wpsc-ug-custom-fields .wpsc-tff {
+	padding-left: 0;
+	padding-right: 0;
+}

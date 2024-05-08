@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportCandy - Automatic close tickets\n"
+"POT-Creation-Date: 2023-07-07 10:06+0530\n"
+"PO-Revision-Date: 2023-07-07 10:06+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpsc-automatic-close-ticket.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/class-wpsc-atc-email-templates.php:41
+#: includes/class-wpsc-atc-email-templates.php:61
+#: includes/class-wpsc-atc-settings.php:54
+#: includes/class-wpsc-atc-settings.php:76
+msgid "Automatic Close Tickets"
+msgstr "Automatisches Schließen von Tickets"
+
+#: includes/class-wpsc-atc-email-templates.php:55
+#: includes/class-wpsc-atc-email-templates.php:145
+#: includes/class-wpsc-atc-email-templates.php:190
+#: includes/class-wpsc-atc-email-templates.php:228
+#: includes/class-wpsc-atc-email-templates.php:382
+#: includes/class-wpsc-atc-email-templates.php:427
+#: includes/class-wpsc-atc-email-templates.php:464
+#: includes/class-wpsc-atc-license.php:113
+#: includes/class-wpsc-atc-license.php:162
+#: includes/class-wpsc-atc-settings.php:68
+#: includes/class-wpsc-atc-settings.php:163
+#: includes/class-wpsc-atc-settings.php:202
+msgid "Unauthorized access!"
+msgstr ""
+
+#: includes/class-wpsc-atc-email-templates.php:70
+#: includes/class-wpsc-atc-email-templates.php:258
+msgid "Days before closing"
+msgstr "Tage vor der Schließung"
+
+#: includes/class-wpsc-atc-license.php:118
+#: includes/class-wpsc-atc-license.php:167
+msgid "Bad request!"
+msgstr ""
+
+#: includes/class-wpsc-atc-settings.php:85
+msgid "Ticket status to check for auto-close"
+msgstr "Ticket-Status zu prüfen für automatisches Schließen"
+
+#: includes/class-wpsc-atc-settings.php:106
+msgid "Age (days)"
+msgstr "Alter (Tage)"
+
+#: includes/class-wpsc-atc-settings.php:113
+msgid "Close status"
+msgstr "Status schließen"
+
+#~ msgid "SupportCandy - Automatic close tickets"
+#~ msgstr "SupportCandy - Automatisches Schließen von Tickets"
+
+#~ msgid "https://supportcandy.net/"
+#~ msgstr "https://supportcandy.net/"
+
+#~ msgid ""
+#~ "Close ticket automatically after x days of inactivity for chosen statuses."
+#~ msgstr ""
+#~ "Tickets automatisch nach x Tagen von Inaktivität für ausgewählte Status "
+#~ "schließen."
+
+#~ msgid "SupportCandy"
+#~ msgstr "SupportCandy"

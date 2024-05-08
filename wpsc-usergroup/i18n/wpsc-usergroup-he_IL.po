@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportCandy - Usergroups\n"
+"POT-Creation-Date: 2024-02-02 17:00+0530\n"
+"PO-Revision-Date: 2024-02-02 17:01+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpsc-usergroup.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class-wpsc-ug-installation.php:146 class-wpsc-ug-installation.php:340
+#: class-wpsc-ug-installation.php:372
+#: includes/admin/settings/class-wpsc-ug-settings.php:55
+#: includes/admin/settings/class-wpsc-ug-settings.php:76
+#: includes/admin/widget/class-wpsc-itw-ar-ug.php:72
+#: includes/admin/widget/class-wpsc-itw-ar-ug.php:132
+#: includes/dashboard/widgets/class-wpsc-dbw-usergroups.php:104
+msgid "Usergroups"
+msgstr "קבוצת משתמשים"
+
+#: class-wpsc-ug-installation.php:147 class-wpsc-ug-installation.php:224
+msgid "Please select usergroups"
+msgstr ""
+
+#: includes/admin/custom-fields/class-wpsc-cf-usergroup.php:73
+#: includes/admin/custom-fields/class-wpsc-cf-usergroup.php:92
+msgid "Usergroup Fields"
+msgstr "שדות קבוצת משתמשים"
+
+#: includes/admin/custom-fields/class-wpsc-cf-usergroup.php:88
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:143
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:304
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:371
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:566
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:662
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:692
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:825
+#: includes/admin/settings/class-wpsc-ug-settings.php:110
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:134
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:238
+#: includes/class-wpsc-usergroup-license.php:107
+#: includes/class-wpsc-usergroup-license.php:157
+#: includes/custom-field-types/class-wpsc-df-usergroups.php:782
+msgid "Unauthorized access!"
+msgstr ""
+
+#: includes/admin/email-notifications/class-wpsc-ug-en.php:34
+msgid "Usergroup Members"
+msgstr "חברי קבוצת משתמשים"
+
+#: includes/admin/email-notifications/class-wpsc-ug-en.php:35
+msgid "Usergroup Supervisors"
+msgstr "אחראי קבוצת משתמשים"
+
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:56
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:171
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:409
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:98
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:309
+msgid "Members"
+msgstr "חברים"
+
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:57
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:181
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:427
+msgid "Supervisors"
+msgstr "אחראיים"
+
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:190
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:446
+msgid "Category"
+msgstr "קטגוריה"
+
+#: includes/admin/settings/class-wpsc-ug-settings-crud.php:721
+msgid "Updating tickets"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-ug-settings-general.php:58
+msgid "Auto-assign usergroups for new tickets"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-ug-settings-general.php:68
+#, fuzzy
+#| msgid "Allow supervisor to close ticket"
+msgid "Allow customers to modify usergroups of tickets"
+msgstr "הרשה לאחראי לסגור כרטיס"
+
+#: includes/admin/settings/class-wpsc-ug-settings-general.php:78
+#, fuzzy
+#| msgid "Allow user to change category in ticket form"
+msgid "Auto-fill usergroups in the ticket form"
+msgstr "הרשה למשתמש לשנות קטגוריה לתבנית הכרטיס"
+
+#: includes/admin/settings/class-wpsc-ug-settings-general.php:88
+msgid "Allow user to change category in ticket form"
+msgstr "הרשה למשתמש לשנות קטגוריה לתבנית הכרטיס"
+
+#: includes/admin/settings/class-wpsc-ug-settings-general.php:98
+msgid "Allow supervisor to close ticket"
+msgstr "הרשה לאחראי לסגור כרטיס"
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:100
+msgid "Details"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:105
+msgid "Tickets"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:116
+msgid "Not Applicable"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:162
+msgid "Show members"
+msgstr "ראה חברים"
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:171
+msgid "Allowed for customer"
+msgstr "מורשה ללקוח"
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:243
+#: includes/class-wpsc-usergroup-license.php:112
+#: includes/class-wpsc-usergroup-license.php:162
+#: includes/dashboard/widgets/class-wpsc-dbw-usergroups.php:201
+#: includes/dashboard/widgets/class-wpsc-dbw-usergroups.php:208
+#: includes/dashboard/widgets/class-wpsc-dbw-usergroups.php:213
+msgid "Bad request!"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:310
+#, fuzzy
+#| msgid "Supervisors"
+msgid "Is Supervisor"
+msgstr "אחראיים"
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:322
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:324
+msgid "No"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:354
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:455
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:609
+msgid "Close"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:417
+msgid "Field"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:418
+msgid "Value"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:682
+msgid "Submit"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:685
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-itw-usergroups.php:691
+#, fuzzy
+#| msgid "Usergroups"
+msgid "Change Usergroups"
+msgstr "קבוצת משתמשים"
+
+#: includes/class-wpsc-ug-actions.php:33 includes/class-wpsc-ug-actions.php:67
+#, fuzzy
+#| msgid "Usergroups"
+msgid "Modify Usergroups"
+msgstr "קבוצת משתמשים"
+
+#: includes/custom-field-types/class-wpsc-df-usergroups.php:212
+msgid "Extra info"
+msgstr ""
+
+#: includes/custom-field-types/class-wpsc-df-usergroups.php:699
+#: includes/custom-field-types/class-wpsc-df-usergroups.php:834
+msgid "None"
+msgstr ""
+
+#: includes/dashboard/widgets/class-wpsc-dbw-usergroups.php:105
+msgid "No. of tickets"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Show members"
+#~ msgid "View members"
+#~ msgstr "ראה חברים"
+
+#~ msgid "SupportCandy - Usergroups"
+#~ msgstr "SupportCandy  - קבוצת משתמשים"
+
+#~ msgid "https://supportcandy.net/"
+#~ msgstr "https://supportcandy.net/"
+
+#~ msgid "Usergroup add-on for SupportCandy"
+#~ msgstr "תוסף קבוצת משתמשים לספורטקנדי"
+
+#~ msgid "SupportCandy"
+#~ msgstr "SupportCandy"

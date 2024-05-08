@@ -1,0 +1,12 @@
+.wpscRpCanvas {
+	min-height: 500px;
+}
+table.wpsc-rp-tbl {
+	width: 100%;
+	margin-top: 15px;
+}
+table.wpsc-rp-tbl th,
+table.wpsc-rp-tbl td {
+	padding: 5px;
+	text-align: center;
+}
